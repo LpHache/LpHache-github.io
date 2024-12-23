@@ -1,0 +1,36 @@
+site_name: Louis' Game Reviews
+nav:
+  - Home: index.md
+  - Ranked by Score: scores.md
+  - '2024':
+    - Elden Ring: reviews/eldenring.md
+    - Total War Warhammer III: reviews/totalwarwarhammeriii.md
+    - A Plague Tale Requiem: reviews/plaguetalerequiem.md
+    - Cocoon: reviews/Cocoon.mds
+    - Halo Infinite: reviews/haloinfinite.md
+    - Firewatch: reviews/firewatch.md
+    - Against The Storm: reviews/againstthestorm.md
+    - Ghostwire Tokyo: reviews/ghostwiretokyo.md
+    - Metroid Dread: reviews/metroiddread.md
+    - Deathloop: reviews/deathloop.md
+    - Jedi Survivor: reviews/jedisurvivor.md
+    - Hogwarts Legacy: reviews/hogwartslegacy.md
+    - Vampire survivors: reviews/vampiresurvivors.md
+    - Age of Mythology retold: reviews/ageofmythologyretold.md
+    - Frostpunk 2: reviews/frostpunk2.md
+    - Hi-Fi Rush: reviews/hifirush.md
+    - Creatures of Ava: reviews/creaturesofava.md
+    - Black Ops 6: reviews/blackops6.md
+  - '2023':
+    - Vanquish: reviews/vanquish.md
+    - Divinity Original Sin 2: reviews/divinityostwo.md
+    - Resident Evil Village: reviews/revillage.md
+  - '2022':
+    - 'Eventually'
+  - '2021':
+    - 'Eventually'
+
+theme:
+  name: dracula
+  favicon: img/favicon.ico
+  logo: img/favicon.png
