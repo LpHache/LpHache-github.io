@@ -26,6 +26,8 @@ See also:
 [Hi-Fi Rush](reviews/hifirush.md)<br/>
 [Creatures of Ava](reviews/creaturesofava.md)<br/>
 [Black Ops 6](reviews/blackops6.md)<br/>
+[Marvel Rivals](reviews/marvelrivals.md)<br/>
+[Lego LOTR](reviews/legolotr.md)<br/>
 
 ## 2023
 [Vanquish](reviews/vanquish.md)<br/>
